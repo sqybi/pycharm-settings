@@ -1,0 +1,61 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/filterpy-1.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/octopus/external_packages/mxnet/python" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/easydict-1.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/configparser-3.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/octopus/ros/src/perception/scene/image_multitask/library/octopus-ia-multitask/src" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/ujson-1.35-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/scikit_learn-0.19.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/tarjan-0.2.3.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/octopus/ros/src/planning/planner_interface" type="simple" />
+            <root url="file://$USER_HOME$/octopus/ros/src/localization/image_localization/src/library/localization-lane" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/graphviz-0.8-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/xgboost-0.6a2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/scipy-0.19.1-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/olefile-0.44-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/octopus2/src/dependency/src/transformation-util" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages/pandas-0.22.0-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/Pillow-4.2.1-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/bunch-1.0.1-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/fastdtw-0.3.2-py2.7-linux-x86_64.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/octopus2/src/localization/LPS/library/octopus-ia-lane-multicam/src" type="simple" />
+            <root url="file://$USER_HOME$/octopus2/src/localization/LPS" type="simple" />
+            <root url="jar://$USER_HOME$/.local/lib/python2.7/site-packages/metric_learn-0.3.0-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.brewery/lib/python2.7/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///opt/ros/kinetic/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/wx-3.0-gtk2" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
