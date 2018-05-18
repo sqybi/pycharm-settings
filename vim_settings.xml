@@ -121,6 +121,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1526659022924">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="40" />
+        <mark key="^" line="62" column="40" />
+        <mark key="." line="62" column="40" />
+      </file>
       <file name="$USER_HOME$/octopus/scripts/update.sh" timestamp="1506066076304">
         <mark key="'" line="23" column="11" />
         <mark key="[" line="138" column="12" />
@@ -547,12 +553,10 @@
       <last-replace>~</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Geometry</entry>
-        <entry>Point3d</entry>
         <entry>PlanningPoint</entry>
         <entry>self</entry>
         <entry>get_dis_by</entry>
