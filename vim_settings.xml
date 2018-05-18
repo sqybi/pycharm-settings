@@ -261,11 +261,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526624276266">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="93" column="35" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526659294583">
+        <mark key="[" line="100" column="56" />
+        <mark key="]" line="100" column="56" />
+        <mark key="." line="100" column="56" />
+        <mark key="^" line="100" column="56" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/src/real_segmentation_service.py" timestamp="1506066099344">
         <mark key="'" line="129" column="34" />
