@@ -3,169 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/lane_u3d_hmi_agent.py" timestamp="1506331298941">
-        <mark key="'" line="91" column="16" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="132" column="70" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_1_machine.yaml" timestamp="1506392431314">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/circular_buffer.py" timestamp="1505976481006">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/util.py" timestamp="1519796864530">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" timestamp="1520317021806">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="87" column="31" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526655755022">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
-        <mark key="'" line="224" column="19" />
-        <mark key="[" line="225" column="16" />
-        <mark key="]" line="226" column="15" />
-        <mark key="^" line="226" column="15" />
-        <mark key="." line="226" column="15" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/console.py" timestamp="1512007970452">
-        <mark key="'" line="350" column="8" />
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="42" />
-        <mark key="^" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_couple.yaml" timestamp="1505296667896">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="6" />
-        <mark key="." line="135" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/launch/u3d_hmi_agent.launch" timestamp="1509502235788">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="31" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" timestamp="1521115248757">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="59" column="16" />
-        <mark key="^" line="59" column="16" />
-        <mark key="." line="59" column="16" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/collector.py" timestamp="1526654809907">
-        <mark key="'" line="116" column="56" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/init.sh" timestamp="1506305908452">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="69" />
-        <mark key="." line="3" column="69" />
-        <mark key="^" line="3" column="69" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_parking.py" timestamp="1520315701296">
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/models/init.sh" timestamp="1506065800174">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/console_one_click.py" timestamp="1511847563499">
-        <mark key="'" line="81" column="11" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="201" column="15" />
-        <mark key="^" line="201" column="15" />
-        <mark key="." line="201" column="15" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/config/console_one_click/shanghai_demo.yaml" timestamp="1511849621995">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/memory.py" timestamp="1521115433099">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/launch/dsp_console.launch" timestamp="1511847738113">
-        <mark key="[" line="2" column="88" />
-        <mark key="]" line="2" column="90" />
-        <mark key="^" line="2" column="90" />
-        <mark key="." line="2" column="90" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1526659022924">
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="62" column="40" />
-        <mark key="^" line="62" column="40" />
-        <mark key="." line="62" column="40" />
-      </file>
-      <file name="$USER_HOME$/octopus/scripts/update.sh" timestamp="1506066076304">
-        <mark key="'" line="23" column="11" />
-        <mark key="[" line="138" column="12" />
-        <mark key="]" line="138" column="40" />
-        <mark key="." line="138" column="40" />
-        <mark key="^" line="138" column="40" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/dsp_console.py" timestamp="1511958253890">
-        <mark key="'" line="30" column="46" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/segmentation_api.py" timestamp="1506063783480">
-        <mark key="[" line="116" column="71" />
-        <mark key="]" line="116" column="71" />
-        <mark key="." line="116" column="71" />
-        <mark key="^" line="116" column="71" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/ros_u3d_hmi_agent.py" timestamp="1505963440866">
-        <mark key="'" line="155" column="16" />
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="123" column="70" />
-        <mark key="^" line="123" column="70" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/config/console_one_click/cfd_demo.yaml" timestamp="1511849651108">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="65" />
-        <mark key="^" line="13" column="65" />
-        <mark key="." line="13" column="65" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/library/planner2/mp_planner2/states/intention.py" timestamp="1519557860255">
-        <mark key="'" line="86" column="25" />
-        <mark key="[" line="32" column="38" />
-        <mark key="]" line="32" column="37" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="32" column="37" />
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" timestamp="1521080715845">
+        <mark key="[" line="354" column="18" />
+        <mark key="]" line="354" column="27" />
+        <mark key="." line="354" column="27" />
+        <mark key="^" line="354" column="27" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/base_state.py" timestamp="1521115644152">
         <mark key="[" line="121" column="63" />
@@ -173,24 +22,17 @@
         <mark key="." line="121" column="64" />
         <mark key="^" line="125" column="50" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporarily_stopped.py" timestamp="1521092123238">
-        <mark key="'" line="57" column="50" />
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="56" column="15" />
-        <mark key="." line="56" column="15" />
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_fully_stopped.py" timestamp="1519724762093">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/octopus/ros/src/sensors/drivers/by-wire/dbw_shanqi_ros/dbw_shanqi_can/src/node.cpp" timestamp="1511841068904">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/rviz_visualize.py" timestamp="1526655689812">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" timestamp="1526655497008">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/routing/routing_server.py" timestamp="1521003197541">
         <mark key="[" line="2" column="11" />
@@ -198,138 +40,11 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" timestamp="1521080680465">
-        <mark key="'" line="123" column="19" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="183" column="20" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/launch/single_machine.launch" timestamp="1506070734876">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/src/planner_routing_tool.py" timestamp="1516094486183">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="37" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="102" column="7" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/planner.py" timestamp="1519957171278">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_fully_stopped.py" timestamp="1519724762093">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" timestamp="1519889215640">
-        <mark key="'" line="28" column="27" />
-        <mark key="[" line="378" column="13" />
-        <mark key="]" line="283" column="36" />
-        <mark key="^" line="359" column="3" />
-        <mark key="." line="378" column="19" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/sensors/drivers/ibeo/packages/ibeo_driver/nodes/ibeo_to_can/ibeo_to_can.py" timestamp="1505971103057">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/segmentation_server.py" timestamp="1506064394265">
-        <mark key="'" line="137" column="98" />
-        <mark key="[" line="138" column="74" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/config/pre_points.yaml" timestamp="1516071057253">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_normal.py" timestamp="1519721837887">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526624276266">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="93" column="35" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/src/real_segmentation_service.py" timestamp="1506066099344">
-        <mark key="'" line="129" column="34" />
-        <mark key="[" line="127" column="98" />
-        <mark key="]" line="127" column="104" />
-        <mark key="^" line="127" column="104" />
-        <mark key="." line="127" column="104" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/up_to_date_storage.py" timestamp="1526655443959">
-        <mark key="'" line="47" column="10" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="114" column="10" />
-        <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/src/planner_routing_backend.py" timestamp="1516094657714">
-        <mark key="'" line="118" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1526655773059">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/CMakeLists.txt" timestamp="1505963508157">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" timestamp="1521079869881">
-        <mark key="[" line="61" column="52" />
-        <mark key="]" line="62" column="52" />
-        <mark key="." line="62" column="52" />
-        <mark key="^" line="62" column="52" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/launch/planner_routing_backend.launch" timestamp="1516093741909">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1526655675671">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
-        <mark key="'" line="330" column="4" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="330" column="37" />
-        <mark key="^" line="330" column="37" />
-        <mark key="." line="330" column="37" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" timestamp="1521080715845">
-        <mark key="[" line="354" column="18" />
-        <mark key="]" line="354" column="27" />
-        <mark key="." line="354" column="27" />
-        <mark key="^" line="354" column="27" />
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/segmentation_api.py" timestamp="1506063783480">
+        <mark key="[" line="116" column="71" />
+        <mark key="]" line="116" column="71" />
+        <mark key="." line="116" column="71" />
+        <mark key="^" line="116" column="71" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/sync/src/detection.py" timestamp="1521007330164">
         <mark key="'" line="54" column="71" />
@@ -338,20 +53,104 @@
         <mark key="^" line="185" column="61" />
         <mark key="." line="187" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" timestamp="1521116073073">
-        <mark key="'" line="30" column="9" />
-        <mark key="[" line="112" column="88" />
-        <mark key="l" line="30" column="9" />
-        <mark key="]" line="112" column="134" />
-        <mark key="." line="112" column="134" />
-        <mark key="^" line="112" column="134" />
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/util.py" timestamp="1519796864530">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_slowing_down.py" timestamp="1521116304294">
-        <mark key="'" line="48" column="16" />
-        <mark key="[" line="72" column="60" />
-        <mark key="]" line="73" column="19" />
-        <mark key="." line="73" column="19" />
-        <mark key="^" line="73" column="19" />
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_normal.py" timestamp="1519721837887">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/src/planner_routing_backend.py" timestamp="1516094657714">
+        <mark key="'" line="118" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_couple.yaml" timestamp="1505296667896">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="6" />
+        <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/init.sh" timestamp="1506305908452">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="69" />
+        <mark key="." line="3" column="69" />
+        <mark key="^" line="3" column="69" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/config/console_one_click/shanghai_demo.yaml" timestamp="1511849621995">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/dsp_console.py" timestamp="1511958253890">
+        <mark key="'" line="30" column="46" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/src/planner_routing_tool.py" timestamp="1516094486183">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="37" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="102" column="7" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" timestamp="1521080680465">
+        <mark key="'" line="123" column="19" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="183" column="20" />
+        <mark key="." line="144" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stopping.py" timestamp="1521114230799">
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/up_to_date_storage.py" timestamp="1526655443959">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/sensors/drivers/by-wire/dbw_shanqi_ros/dbw_shanqi_can/src/node.cpp" timestamp="1511841068904">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/launch/u3d_hmi_agent.launch" timestamp="1509502235788">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/src/real_segmentation_service.py" timestamp="1506066099344">
+        <mark key="'" line="129" column="34" />
+        <mark key="[" line="127" column="98" />
+        <mark key="]" line="127" column="104" />
+        <mark key="^" line="127" column="104" />
+        <mark key="." line="127" column="104" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/config/pre_points.yaml" timestamp="1516071057253">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_astern.py" timestamp="1519729265106">
         <mark key="[" line="3" column="17" />
@@ -359,11 +158,16 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stopping.py" timestamp="1521114230799">
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526655755022">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/CMakeLists.txt" timestamp="1505963508157">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_2_machine.yaml" timestamp="1506392524872">
         <mark key="'" line="155" column="4" />
@@ -379,6 +183,119 @@
         <mark key="^" line="63" column="70" />
         <mark key="." line="63" column="70" />
       </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/circular_buffer.py" timestamp="1505976481006">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_slowing_down.py" timestamp="1521116304294">
+        <mark key="'" line="48" column="16" />
+        <mark key="[" line="72" column="60" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" timestamp="1521115248757">
+        <mark key="'" line="71" column="8" />
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="59" column="16" />
+        <mark key="^" line="59" column="16" />
+        <mark key="." line="59" column="16" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/rviz_visualize.py" timestamp="1526655689812">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
+        <mark key="'" line="224" column="19" />
+        <mark key="[" line="225" column="16" />
+        <mark key="]" line="226" column="15" />
+        <mark key="^" line="226" column="15" />
+        <mark key="." line="226" column="15" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporarily_stopped.py" timestamp="1521092123238">
+        <mark key="'" line="57" column="50" />
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="15" />
+        <mark key="^" line="56" column="15" />
+        <mark key="." line="56" column="15" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/planner.py" timestamp="1519957171278">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/memory.py" timestamp="1521115433099">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/config/console_one_click/cfd_demo.yaml" timestamp="1511849651108">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" timestamp="1521116073073">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="112" column="88" />
+        <mark key="l" line="30" column="9" />
+        <mark key="]" line="112" column="134" />
+        <mark key="." line="112" column="134" />
+        <mark key="^" line="112" column="134" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/console_one_click.py" timestamp="1511847563499">
+        <mark key="'" line="81" column="11" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="201" column="15" />
+        <mark key="^" line="201" column="15" />
+        <mark key="." line="201" column="15" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/system/hmi/planner_routing/launch/planner_routing_backend.launch" timestamp="1516093741909">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1526659022924">
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="40" />
+        <mark key="^" line="62" column="40" />
+        <mark key="." line="62" column="40" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1526655773059">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" timestamp="1521079869881">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="62" column="52" />
+        <mark key="." line="62" column="52" />
+        <mark key="^" line="62" column="52" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" timestamp="1519889215640">
+        <mark key="'" line="28" column="27" />
+        <mark key="[" line="378" column="13" />
+        <mark key="]" line="283" column="36" />
+        <mark key="^" line="359" column="3" />
+        <mark key="." line="378" column="19" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
+        <mark key="'" line="330" column="4" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="330" column="37" />
+        <mark key="^" line="330" column="37" />
+        <mark key="." line="330" column="37" />
+      </file>
       <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/concurrent_circular_buffer.py" timestamp="1505998395916">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="48" column="16" />
@@ -386,18 +303,90 @@
         <mark key="." line="48" column="16" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_1_machine.yaml" timestamp="1506392431314">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="20" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/octopus/scripts/update.sh" timestamp="1506066076304">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="138" column="12" />
+        <mark key="]" line="138" column="40" />
+        <mark key="." line="138" column="40" />
+        <mark key="^" line="138" column="40" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" timestamp="1526655497008">
-        <mark key="[" line="263" column="13" />
-        <mark key="]" line="263" column="10" />
-        <mark key="^" line="263" column="10" />
-        <mark key="." line="263" column="10" />
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/console.py" timestamp="1512007970452">
+        <mark key="'" line="350" column="8" />
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/ros_u3d_hmi_agent.py" timestamp="1505963440866">
+        <mark key="'" line="155" column="16" />
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="123" column="70" />
+        <mark key="^" line="123" column="70" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" timestamp="1520317021806">
+        <mark key="'" line="72" column="20" />
+        <mark key="[" line="87" column="31" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/lane_u3d_hmi_agent.py" timestamp="1506331298941">
+        <mark key="'" line="91" column="16" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="132" column="70" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/library/planner2/mp_planner2/states/intention.py" timestamp="1519557860255">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_parking.py" timestamp="1520315701296">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/segmentation_server.py" timestamp="1506064394265">
+        <mark key="'" line="137" column="98" />
+        <mark key="[" line="138" column="74" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/launch/single_machine.launch" timestamp="1506070734876">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/sensors/drivers/ibeo/packages/ibeo_driver/nodes/ibeo_to_can/ibeo_to_can.py" timestamp="1505971103057">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1526655675671">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/models/init.sh" timestamp="1506065800174">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/octopus/ros/src/system/console_backend/launch/dsp_console.launch" timestamp="1511847738113">
+        <mark key="[" line="2" column="88" />
+        <mark key="]" line="2" column="90" />
+        <mark key="^" line="2" column="90" />
+        <mark key="." line="2" column="90" />
       </file>
     </filemarks>
     <jumps>
