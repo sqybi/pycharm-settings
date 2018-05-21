@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Tool_Formatting Tools_PyDoc">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Tool_Formatting Tools_PyLint">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Tool_Formatting Tools_Pylint">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+</keymap>
