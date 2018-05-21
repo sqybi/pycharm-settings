@@ -68,12 +68,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526891181933">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526892137144">
         <mark key="'" line="92" column="35" />
-        <mark key="[" line="120" column="42" />
-        <mark key="]" line="120" column="44" />
-        <mark key="^" line="120" column="44" />
-        <mark key="." line="120" column="44" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="153" column="46" />
+        <mark key="^" line="153" column="46" />
+        <mark key="." line="153" column="46" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
         <mark key="[" line="3" column="19" />
