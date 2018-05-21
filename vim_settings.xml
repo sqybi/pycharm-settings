@@ -62,13 +62,22 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/usr/lib/python2.7/pstats.py" timestamp="1526883294151">
+        <mark key="'" line="101" column="22" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_normal.py" timestamp="1519721837887">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526877635813" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526883100243">
+        <mark key="'" line="87" column="35" />
+        <mark key="[" line="93" column="47" />
+        <mark key="]" line="93" column="47" />
+        <mark key="^" line="92" column="72" />
+        <mark key="." line="93" column="47" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="20" />
@@ -162,8 +171,15 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526879748801">
-        <mark key="'" line="132" column="60" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1526881243471">
+        <mark key="'" line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526881287746">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="80" column="37" />
+        <mark key="]" line="80" column="37" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="80" column="17" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/CMakeLists.txt" timestamp="1505963508157">
         <mark key="[" line="12" column="0" />
@@ -184,6 +200,9 @@
         <mark key="]" line="63" column="70" />
         <mark key="^" line="63" column="70" />
         <mark key="." line="63" column="70" />
+      </file>
+      <file name="/Python Console" timestamp="1526879886802">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/hmi/u3d_hmi_agent/src/circular_buffer.py" timestamp="1505976481006">
         <mark key="'" line="19" column="4" />
@@ -206,11 +225,11 @@
         <mark key="^" line="59" column="16" />
         <mark key="." line="59" column="16" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/rviz_visualize.py" timestamp="1526655689812">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/rviz_visualize.py" timestamp="1526882940362">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="52" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -395,17 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="35" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" />
-      <jump line="27" column="26" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" />
-      <jump line="28" column="27" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" />
-      <jump line="52" column="31" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" />
-      <jump line="28" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" />
-      <jump line="53" column="11" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" />
-      <jump line="147" column="13" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="60" column="22" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="63" column="26" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="37" column="83" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" />
-      <jump line="39" column="12" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" />
       <jump line="61" column="31" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" />
       <jump line="58" column="12" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" />
       <jump line="61" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
@@ -495,55 +503,67 @@
       <jump line="47" column="10" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/up_to_date_storage.py" />
       <jump line="34" column="59" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" />
       <jump line="131" column="60" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="1" column="7" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
+      <jump line="87" column="35" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
+      <jump line="69" column="22" filename="/usr/lib/python2.7/pstats.py" />
+      <jump line="85" column="22" filename="/usr/lib/python2.7/pstats.py" />
+      <jump line="334" column="14" filename="/usr/lib/python2.7/pstats.py" />
+      <jump line="103" column="22" filename="/usr/lib/python2.7/pstats.py" />
+      <jump line="102" column="37" filename="/usr/lib/python2.7/pstats.py" />
+      <jump line="101" column="22" filename="/usr/lib/python2.7/pstats.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>moving_back</text>
+        <text encoding="base64">Pj4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc25hcHNob3RbJ2xhc3RfcmVhbF93YXlwb2ludF90eXBlJ10gPSAnZW5kX3BvaW50Jwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGFuZAogICAgICAgICAgICAgICAgICAgICAgICAo</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBwb3J0X3BsYW5uZXIuY2ZnIGltcG9ydCBQb3J0UGxhbm5lckNvbmZpZwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuLm1hcF91dGlsIGltcG9ydCBNYXBVdGlsCg==</text>
+      <register name="3" type="4">
+        <text>-
+                np.array([pose.position.x, pose.position.y])</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAudGltZW91dCBpbXBvcnQgdGltZW91dAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGFuZAogICAgICAgICAgICAgICAgICAgICAgICAo</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSAuLm1hcF91dGlsIGltcG9ydCBNYXBVdGlsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsZV9zdHJlYW06Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAudGltZW91dCBpbXBvcnQgdGltZW91dAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moving_back</last-search>
+      <last-search encoding="base64">Pj4=</last-search>
       <last-offset />
-      <last-pattern>moving_back</last-pattern>
+      <last-pattern encoding="base64">Pj4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -551,11 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self</entry>
-        <entry>get_dis_by</entry>
-        <entry>LogReport</entry>
-        <entry>is_completely_stopped</entry>
-        <entry>SceneInfor</entry>
         <entry>if front_</entry>
         <entry>container</entry>
         <entry>recv_container_info</entry>
@@ -571,6 +586,11 @@
         <entry>Params</entry>
         <entry>params</entry>
         <entry>moving_back</entry>
+        <entry>dist</entry>
+        <entry>numpy</entry>
+        <entry>np.</entry>
+        <entry>stream</entry>
+        <entry encoding="base64">Pj4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>

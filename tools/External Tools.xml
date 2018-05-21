@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="pylint" />
+      <option name="PARAMETERS" value="-j4 -rn -sn -fcolorized --max-line-length=80 --disable=&quot;missing-docstring,design&quot; --msg-template=&quot;{msg_id}:{line:4d},{column:2d}: {msg} ({symbol})&quot; $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
