@@ -168,15 +168,15 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1526887015253">
-        <mark key="'" line="106" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1526979682736">
+        <mark key="'" line="119" column="46" />
         <mark key="[" line="126" column="66" />
         <mark key="]" line="127" column="13" />
         <mark key="." line="127" column="13" />
         <mark key="^" line="127" column="13" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526887571905">
-        <mark key="'" line="1" column="7" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526979674528">
+        <mark key="'" line="139" column="33" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -424,16 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="115" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
-      <jump line="30" column="9" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
-      <jump line="148" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="28" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="150" column="41" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="83" column="32" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="45" column="61" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="43" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="34" column="36" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="91" column="28" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
       <jump line="73" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
       <jump line="76" column="28" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
       <jump line="74" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
@@ -524,6 +514,16 @@
       <jump line="118" column="13" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
       <jump line="119" column="13" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
       <jump line="173" column="41" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
+      <jump line="127" column="13" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="104" column="67" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="135" column="62" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="140" column="34" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="94" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="136" column="53" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="139" column="33" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="116" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="119" column="46" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,7 +533,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>hb.</text>
+        <text>last_real_waypoint_index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmlnaHRfbGFuZSA9IGxhbmUK</text>
@@ -570,9 +570,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hb.</last-search>
+      <last-search>last_real_waypoint_index</last-search>
       <last-offset />
-      <last-pattern>hb.</last-pattern>
+      <last-pattern>last_real_waypoint_index</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -580,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slowing_down_terminal_dist</entry>
         <entry>dist_to_routing_ref_pt</entry>
         <entry>vehicle</entry>
         <entry>Params</entry>
@@ -600,6 +599,7 @@
         <entry>heart</entry>
         <entry>hb</entry>
         <entry>hb.</entry>
+        <entry>last_real_waypoint_index</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
