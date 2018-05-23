@@ -30,12 +30,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1526709926310">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="171" column="60" />
-        <mark key="]" line="171" column="60" />
-        <mark key="." line="171" column="60" />
-        <mark key="^" line="171" column="60" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527047495023">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="176" column="60" />
+        <mark key="]" line="176" column="60" />
+        <mark key="." line="176" column="60" />
+        <mark key="^" line="176" column="60" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -270,12 +270,6 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1526710378762">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="42" />
-        <mark key="." line="100" column="56" />
-        <mark key="^" line="100" column="56" />
-      </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/src/real_segmentation_service.py" timestamp="1506066099344">
         <mark key="'" line="129" column="34" />
         <mark key="[" line="127" column="98" />
@@ -301,8 +295,8 @@
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1526709955803">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="89" column="53" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="85" column="53" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -329,11 +323,6 @@
         <mark key="]" line="32" column="75" />
         <mark key="." line="32" column="75" />
         <mark key="^" line="32" column="75" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1526710382272">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
         <mark key="'" line="330" column="4" />
@@ -419,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="54" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_lane_changing.py" />
       <jump line="16" column="20" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
       <jump line="61" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
       <jump line="65" column="16" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
@@ -519,6 +507,7 @@
       <jump line="12" column="59" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="28" column="72" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="33" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="76" column="19" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -571,20 +560,10 @@
       <last-replace>~</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PlanningPoint</entry>
-        <entry>self</entry>
-        <entry>get_dis_by</entry>
-        <entry>LogReport</entry>
-        <entry>is_completely_stopped</entry>
-        <entry>SceneInfor</entry>
-        <entry>if front_</entry>
-        <entry>container</entry>
-        <entry>recv_container_info</entry>
-        <entry>parking</entry>
         <entry>pc_call</entry>
         <entry>header</entry>
         <entry>scene_info</entry>
