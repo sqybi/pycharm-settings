@@ -201,6 +201,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527082582557">
+        <mark key="'" line="25" column="25" />
+        <mark key="[" line="746" column="0" />
+        <mark key="]" line="749" column="22" />
+        <mark key="." line="750" column="0" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/routing/routing_server.py" timestamp="1521003197541">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="9" />
@@ -366,6 +372,13 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" timestamp="1527082567612">
+        <mark key="'" line="151" column="33" />
+        <mark key="[" line="572" column="0" />
+        <mark key="]" line="575" column="22" />
+        <mark key="^" line="572" column="32" />
+        <mark key="." line="572" column="32" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stopping.py" timestamp="1521114230799">
         <mark key="[" line="50" column="24" />
         <mark key="]" line="50" column="24" />
@@ -393,6 +406,12 @@
         <mark key="." line="48" column="16" />
         <mark key="^" line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-010.yaml" timestamp="1527082589699">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="564" column="0" />
+        <mark key="]" line="564" column="0" />
+        <mark key="." line="564" column="0" />
+      </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_1_machine.yaml" timestamp="1506392431314">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="13" column="0" />
@@ -409,9 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="12" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="167" column="12" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="152" column="31" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
       <jump line="107" column="115" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
       <jump line="30" column="9" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
       <jump line="148" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
@@ -509,55 +525,58 @@
       <jump line="78" column="42" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="71" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" />
       <jump line="137" column="70" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="151" column="33" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" />
+      <jump line="25" column="25" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="16" column="12" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-010.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>virtual_</text>
+        <text>antlet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBweWxpbnQ6IGRpc2FibGU9YnJvYWQtZXhjZXB0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAzOS4xMDUuMzMuMTc2CiAgICAgICAgcmVkaXNfcG9ydDogNjM3OAogICAgICAgIHJlZGlzX3Bhc3N3b3JkOiB0dXNpbXBsZUAyMDE4CiAgICAgICAgdjJ4X3BvcnQ6IDgwNDQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB5bGludDoK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHB5bGludDoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncnZpel93YXlwb2ludHMnOiByaXZ6X3dheXBvaW50X21zZwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJpdnpfd2F5cG9pbnRfbXNnID0gcnZpel92aXMuY3JlYXRlX3J2aXpfd2F5X3BvaW50cyh3YXlwb2ludF9tc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAncnZpel93YXlwb2ludHMnOiByaXZ6X3dheXBvaW50X21zZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ2aXpfdmlzID0gUnZpelZpc3VhbGl6ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>virtual_</last-search>
+      <last-search>antlet</last-search>
       <last-offset />
-      <last-pattern>virtual_</last-pattern>
+      <last-pattern>antlet</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>virtual</last-substitute>
       <last-dir>1</last-dir>
@@ -588,6 +607,7 @@
         <entry>rate</entry>
         <entry>virtual</entry>
         <entry>virtual_</entry>
+        <entry>antlet</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
