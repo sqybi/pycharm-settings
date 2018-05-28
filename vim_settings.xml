@@ -30,11 +30,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527512945875">
-        <mark key="[" line="106" column="48" />
-        <mark key="]" line="106" column="50" />
-        <mark key="^" line="106" column="50" />
-        <mark key="." line="106" column="50" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527517676491">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="238" column="19" />
+        <mark key="]" line="238" column="19" />
+        <mark key="." line="238" column="19" />
+        <mark key="^" line="238" column="19" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -115,6 +116,12 @@
         <mark key="]" line="2" column="90" />
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="90" />
+      </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527515481329">
+        <mark key="'" line="117" column="15" />
+        <mark key="[" line="75" column="63" />
+        <mark key="]" line="75" column="63" />
+        <mark key="." line="75" column="63" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
         <mark key="[" line="3" column="19" />
@@ -323,6 +330,13 @@
         <mark key="." line="32" column="75" />
         <mark key="^" line="32" column="75" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527517765693">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="11" />
+        <mark key="." line="92" column="11" />
+        <mark key="^" line="92" column="11" />
+      </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
         <mark key="'" line="330" column="4" />
         <mark key="[" line="329" column="0" />
@@ -420,31 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="115" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
-      <jump line="30" column="9" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/cfg/planner.cfg" />
-      <jump line="148" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="28" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="150" column="41" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="83" column="32" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="45" column="61" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="43" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="34" column="36" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
-      <jump line="91" column="28" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
-      <jump line="76" column="28" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
-      <jump line="74" column="24" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
-      <jump line="85" column="16" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_blocked.py" />
-      <jump line="8" column="32" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
-      <jump line="184" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" />
-      <jump line="3" column="34" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/util.py" />
-      <jump line="80" column="15" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="75" column="16" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="76" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="82" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="53" column="30" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_precisely_stopping.py" />
-      <jump line="5" column="50" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" />
       <jump line="69" column="8" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" />
       <jump line="4" column="32" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stopping.py" />
       <jump line="70" column="20" filename="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_forward.py" />
@@ -503,7 +492,6 @@
       <jump line="89" column="54" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="91" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="92" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="152" column="19" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="116" column="56" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="69" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="70" column="23" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
@@ -516,63 +504,91 @@
       <jump line="105" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="78" column="42" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="71" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" />
-      <jump line="137" column="70" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="151" column="33" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" />
       <jump line="25" column="25" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="16" column="12" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-010.yaml" />
+      <jump line="104" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="129" column="44" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="150" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="128" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="127" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="126" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="125" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="124" column="33" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="118" column="55" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="143" column="53" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="144" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="141" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="104" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="110" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="169" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="166" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="117" column="15" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="137" column="67" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="165" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="167" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="153" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="156" column="26" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="158" column="26" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="152" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="151" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
+        <text encoding="base64">ICAgIGlzX3ZpcnR1YWwgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>is_virtual</text>
       </register>
       <register name="/" type="4">
-        <text>antlet</text>
+        <text>last_real_waypoint_type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAzOS4xMDUuMzMuMTc2CiAgICAgICAgcmVkaXNfcG9ydDogNjM3OAogICAgICAgIHJlZGlzX3Bhc3N3b3JkOiB0dXNpbXBsZUAyMDE4CiAgICAgICAgdjJ4X3BvcnQ6IDgwNDQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3RbJ3JlcXVlc3RfY3Jvc3NpbmdfaWRzJ10gPSBbY3Jvc3NpbmdfaWRdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
+        <text encoding="base64">ICAgIGlzX3ZpcnR1YWwgPSAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19ob3N0OiAxMC4xMzAuMTcuNDcgICMgQ2hhbmdlIGxhdGVyCiAgICAgICAgcmVkaXNfcG9ydDogNjM3OSAgIyBDaGFuZ2UgbGF0ZXIKICAgICAgICB2MnhfcG9ydDogMTAwMDIK</text>
+      <register name="2" type="4">
+        <text>(
+            waypoint['lane_type'] == 'virtual_forward' or
+            waypoint['lane_type'] == 'virtual_backward')</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHB5bGludDoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KAogICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3YXlwb2ludHMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE9ubHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAncnZpel93YXlwb2ludHMnOiByaXZ6X3dheXBvaW50X21zZwo=</text>
+        <text encoding="base64">ICAgICAgICAjIE1ha2Ugc3VyZSBgd2F5cG9pbnRzYCBoYXZlIGF0IGxlYXN0IG9uZSB3YXlwb2ludC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>antlet</last-search>
+      <last-search>last_real_waypoint_type</last-search>
       <last-offset />
-      <last-pattern>antlet</last-pattern>
+      <last-pattern>last_real_waypoint_type</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>virtual</last-substitute>
+      <last-substitute>nearest_obstacle</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -596,19 +612,24 @@
         <entry>virtual</entry>
         <entry>virtual_</entry>
         <entry>antlet</entry>
+        <entry>front_obstacle_speed</entry>
+        <entry>nearest_obstacle</entry>
+        <entry>last_real</entry>
+        <entry>navigation_waypoints</entry>
+        <entry>last_real_waypoint_type</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
-        <entry>sw</entry>
         <entry>ws</entry>
         <entry>w:w</entry>
         <entry>q</entry>
-        <entry>we</entry>
         <entry>ew</entry>
         <entry>wq</entry>
         <entry>wqa</entry>
         <entry>qw</entry>
         <entry>nohl</entry>
+        <entry>sw</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
