@@ -30,12 +30,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527517676491">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="238" column="19" />
-        <mark key="]" line="238" column="19" />
-        <mark key="." line="238" column="19" />
-        <mark key="^" line="238" column="19" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527519142618">
+        <mark key="'" line="152" column="8" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="158" column="26" />
+        <mark key="^" line="158" column="26" />
+        <mark key="." line="158" column="26" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -330,12 +330,12 @@
         <mark key="." line="32" column="75" />
         <mark key="^" line="32" column="75" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527517765693">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527517852195">
         <mark key="'" line="30" column="8" />
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="11" />
-        <mark key="." line="92" column="11" />
-        <mark key="^" line="92" column="11" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
         <mark key="'" line="330" column="4" />
@@ -536,46 +536,44 @@
       <jump line="30" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlzX3ZpcnR1YWwgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>is_virtual</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>last_real_waypoint_type</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3RbJ3JlcXVlc3RfY3Jvc3NpbmdfaWRzJ10gPSBbY3Jvc3NpbmdfaWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsdGFfZGlzdCA9IGFicyh3YXlwb2ludFsnZGlzdCddIC0gcG9zZV93YXlwb2ludFsnZGlzdCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzX3ZpcnR1YWwgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGaW5pc2ggc2VhcmNoIHdoZW4gYmV5b25kIGZvcndhcmRfZGlzdAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>(
-            waypoint['lane_type'] == 'virtual_forward' or
-            waypoint['lane_type'] == 'virtual_backward')</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KAogICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UocG9zZV9yZWZfaW5kZXgsIHJlZl9pbmRleCwgd2F5cG9pbnRfc3RlcCk6CiAgICAgICAgICAgICAgICB3YXlwb2ludHMuYXBwZW5kKG5hdmlnYXRpb25fd2F5cG9pbnRzW2ldKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShwb3NlX3JlZl9pbmRleCwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3YXlwb2ludHMgPSBbXQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL3RhaWNhbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIE9ubHkK</text>
+        <text encoding="base64">CgpkZWYgaXNfd2F5cG9pbnRfdmlydHVhbCh3YXlwb2ludCk6CiAgICByZXR1cm4gKHdheXBvaW50WydsYW5lX3R5cGUnXSA9PSAndmlydHVhbF9mb3J3YXJkJyBvcgogICAgICAgICAgICB3YXlwb2ludFsnbGFuZV90eXBlJ10gPT0gJ3ZpcnR1YWxfYmFja3dhcmQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIE1ha2Ugc3VyZSBgd2F5cG9pbnRzYCBoYXZlIGF0IGxlYXN0IG9uZSB3YXlwb2ludC4K</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -588,7 +586,7 @@
       <last-replace>~</last-replace>
       <last-substitute>nearest_obstacle</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -625,11 +623,11 @@
         <entry>q</entry>
         <entry>ew</entry>
         <entry>wq</entry>
-        <entry>wqa</entry>
         <entry>qw</entry>
-        <entry>nohl</entry>
         <entry>sw</entry>
         <entry>we</entry>
+        <entry>wqa</entry>
+        <entry>nohl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
