@@ -30,6 +30,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527512945875">
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="50" />
+        <mark key="^" line="106" column="50" />
+        <mark key="." line="106" column="50" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
         <mark key="[" line="225" column="16" />
