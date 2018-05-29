@@ -30,12 +30,12 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527519595680">
-        <mark key="'" line="160" column="21" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="80" />
-        <mark key="^" line="160" column="68" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527571312892">
+        <mark key="'" line="141" column="12" />
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="104" column="29" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -325,17 +325,17 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/cfg/port_planner.cfg" timestamp="1526708676270">
-        <mark key="[" line="32" column="71" />
-        <mark key="]" line="32" column="75" />
-        <mark key="." line="32" column="75" />
-        <mark key="^" line="32" column="75" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/cfg/port_planner.cfg" timestamp="1527571059542">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+        <mark key="^" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527517852195">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527571327825">
         <mark key="'" line="30" column="8" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
         <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
@@ -435,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="43" filename="$USER_HOME$/octopus2/src/planning/sync/src/detection.py" />
       <jump line="94" column="12" filename="$USER_HOME$/octopus2/src/planning/sync/src/detection.py" />
       <jump line="135" column="19" filename="$USER_HOME$/octopus2/src/planning/sync/src/detection.py" />
       <jump line="52" column="31" filename="$USER_HOME$/octopus2/src/planning/sync/src/detection.py" />
@@ -535,46 +534,49 @@
       <jump line="123" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="115" column="53" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="71" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
+      <jump line="139" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8oUWluZ3l1KTogQ2hlY2sgaWYgd2UgYXJlIG9uIHZpcnR1YWwgbGFuZSB0byBkZXRlcm1pbmUgd2hldGhlciB3ZQogICAgICAgICMgbmVlZCB0byBrZWVwIHN0b3BwZWQgb3Igbm90Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>last_real</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9zcHkubG9nd2FybigKICAgICAgICAgICAgICAgICdXcm9uZyBnZWFyICVkIHJlY2VpdmVkIGR1cmluZyBzbGlkaW5nLCBub3cgc3RvcHBlZC4nLCBnZWFyKQogICAgICAgICAgICBzY2VuZV9pbmZvLnN0ZXBwaW5nX3RyaWdnZXIgPSBTY2VuZUluZm9ybWF0aW9uLlNMSURJTkdfT0ZGCg==</text>
+        <text encoding="base64">ICAgICAgICBuZWFyZXN0X29ic3RhY2xlX3JlbWFpbl9kaXN0ID0gTm9uZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8oUWluZ3l1KTogQ2hlY2sgaWYgd2UgYXJlIG9uIHZpcnR1YWwgbGFuZSB0byBkZXRlcm1pbmUgd2hldGhlciB3ZQogICAgICAgICMgbmVlZCB0byBrZWVwIHN0b3BwZWQgb3Igbm90Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIGlzX3dheXBvaW50X3ZpcnR1YWwod2F5cG9pbnQpOgogICAgcmV0dXJuICh3YXlwb2ludFsnbGFuZV90eXBlJ10gPT0gJ3ZpcnR1YWxfZm9yd2FyZCcgb3IKICAgICAgICAgICAgd2F5cG9pbnRbJ2xhbmVfdHlwZSddID09ICd2aXJ0dWFsX2JhY2t3YXJkJykK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NlbmVfaW5mby5zdGVwcGluZ190cmlnZ2VyID0gU2NlbmVJbmZvcm1hdGlvbi5TTElESU5HX09GRgo=</text>
+      <register name="3" type="4">
+        <text>'
+            '</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgOgo=</text>
+      <register name="4" type="4">
+        <text>'
+            '</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtdXN0X3N0b3BfZGlzdCA9IGNvbmZpZ1snbXVzdF9zdG9wX2Rpc3QnXQogICAgICAgIHN0YXRpY19tdXN0X3N0b3BfZGlzdCA9IGNvbmZpZ1snc3RhdGljX211c3Rfc3RvcF9kaXN0J10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvc3B5LmxvZ2luZm8oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0ZpbmQgb2JzdGFjbGUgezB9IHdpdGggdHlwZSB7MX0gaW4gdGhlIGZyb250ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnezI6LjJmfW0sIHJlbWFpbiBkaXN0OiB7MzouMmZ9bSwgc3BlZWQ6ICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnezQ6LjJmfSBtL3MnLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2JzdGFjbGUuaWQsIG9ic3RhY2xlLnR5cGUsIGRlbHRhX2Rpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlbWFpbl9kaXN0LCBvYnN0YWNsZS5zcGVlZCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0X3JlYWxfd2F5cG9pbnQgPSBmb3J3YXJkX3dheXBvaW50c1tsYXN0X3JlYWxfd2F5cG9pbnRfaW5kZXhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5lYXJlc3Rfb2JzdGFjbGVfZGVsdGFfZGlzdCA9IGRlbHRhX2Rpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByb3NweS5sb2dkZWJ1ZygnQUNDIHJlbWFpbiBkaXN0OiAlZicsIHJlbWFpbl9kaXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtYWluX2Rpc3QgPSBmb3J3YXJkX2Rpc3QgLSBtdXN0X3N0b3BfZGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZWFyZXN0X29ic3RhY2xlLnNwZWVkKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZWFyZXN0X29ic3RhY2xlX2RlbHRhX2Rpc3QsIG5lYXJlc3Rfb2JzdGFjbGVfcmVtYWluX2Rpc3QsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -627,9 +629,9 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>sw</entry>
-        <entry>we</entry>
         <entry>wqa</entry>
         <entry>nohl</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
