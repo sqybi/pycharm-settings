@@ -207,12 +207,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527665208845">
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527668058636">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="56" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="77" column="12" />
+        <mark key="." line="77" column="12" />
+        <mark key="^" line="75" column="30" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1527646344275">
         <mark key="[" line="6" column="5" />
@@ -238,6 +238,7 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi" timestamp="1527668102768" />
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" timestamp="1521080680465">
         <mark key="'" line="123" column="19" />
         <mark key="[" line="144" column="0" />
@@ -562,44 +563,44 @@
       <jump line="53" column="8" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>lidar_driver_left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbGFzdF91cGRhdGVfdGltZSA9IHJvc3B5LlRpbWUubm93KCkKICAgICAgICAgICAgZm9yIG9ic3RhY2xlIGluIGRhdGE6CiAgICAgICAgICAgICAgICBzZWxmLl90cnlfdXBkYXRlX29ic3RhY2xlKG9ic3RhY2xlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIG9ic3RhY2xlIGluIGRhdGE6Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl91cGRhdGVfdjJ4X29ic3RhY2xlcyhkYXRhKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ic3RhY2xlX2lkcy5hZGQob2JzdGFjbGUuaWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdXBkYXRlX3RydWNrX29ic3RhY2xlcyhzZWxmLCBkYXRhKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzdGFjbGVfaWRzID0gc2V0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl90cnlfY2xlYW5fb2JzdGFjbGVfaWQob2JzdGFjbGVfaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9ic3RhY2xlX2lkIG5vdCBpbiBvYnN0YWNsZV9pZHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG9ic3RhY2xlX2lkIGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG9ic3RhY2xlIGluIGRhdGE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSA9IGRhdGEuaGVhZGVyLnN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
