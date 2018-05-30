@@ -207,12 +207,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527658218216">
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527665208845">
         <mark key="'" line="23" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="36" column="58" />
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1527646344275">
         <mark key="[" line="6" column="5" />
@@ -226,8 +226,8 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527082582557">
-        <mark key="'" line="25" column="25" />
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527666002647">
+        <mark key="'" line="53" column="8" />
         <mark key="[" line="746" column="0" />
         <mark key="]" line="749" column="22" />
         <mark key="." line="750" column="0" />
@@ -460,20 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="59" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="186" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="221" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="227" column="41" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="233" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="237" column="47" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="261" column="30" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
-      <jump line="38" column="30" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="68" column="23" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="116" column="56" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="109" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
-      <jump line="12" column="59" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="28" column="72" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="33" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="76" column="19" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="130" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
@@ -560,59 +546,73 @@
       <jump line="57" column="25" filename="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" />
       <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
       <jump line="17" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
+      <jump line="726" column="27" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="40" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="35" column="12" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="872" column="5" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="559" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="557" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="547" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="536" column="22" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="93" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="84" column="12" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="72" column="22" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="42" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="68" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="53" column="8" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWRpc19sYXN0X3VwZGF0ZV90aW1lID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Obstacle</text>
+        <text>lidar_driver_left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgogICAgICAgICAgICBpZiAoc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSBpcyBub3QgTm9uZSBhbmQKICAgICAgICAgICAgICAgICAgICBkYXRhLmhlYWRlci5zdGFtcCA8PSBzZWxmLl9yZWRpc19sYXN0X3VwZGF0ZV90aW1lKToKICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICBzZWxmLl9sYXN0X3VwZGF0ZV90aW1lID0gcm9zcHkuVGltZS5ub3coKQogICAgICAgICAgICBzZWxmLl9yZWRpc19sYXN0X3VwZGF0ZV90aW1lID0gZGF0YS5oZWFkZXIuc3RhbXAKICAgICAgICAgICAgb2JzdGFjbGVfaWRzID0gc2V0KCkKICAgICAgICAgICAgZm9yIG9ic3RhY2xlIGluIGRhdGE6CiAgICAgICAgICAgICAgICBvYnN0YWNsZV9pZHMuYWRkKG9ic3RhY2xlLmlkKQogICAgICAgICAgICAgICAgc2VsZi5fdHJ5X3VwZGF0ZV9vYnN0YWNsZShvYnN0YWNsZSkKICAgICAgICAgICAgZm9yIG9ic3RhY2xlX2lkIGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6CiAgICAgICAgICAgICAgICBpZiBvYnN0YWNsZV9pZCBub3QgaW4gb2JzdGFjbGVfaWRzOgogICAgICAgICAgICAgICAgICAgIHNlbGYuX3RyeV9jbGVhbl9vYnN0YWNsZV9pZChvYnN0YWNsZV9pZCkK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWRpc19sYXN0X3VwZGF0ZV90aW1lID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSA9IGRhdGEuaGVhZGVyLnN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbGYuX3JlZGlzX2xhc3RfdXBkYXRlX3RpbWUgaXMgbm90IE5vbmUgYW5kCiAgICAgICAgICAgICAgICAgICAgZGF0YS5oZWFkZXIuc3RhbXAgPD0gc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSk6CiAgICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG9ic3RhY2xlIGluIGRhdGE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSA9IGRhdGEuaGVhZGVyLnN0YW1wCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuX3VwZGF0ZV9sb2NrOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlbGYuX3JlZGlzX2xhc3RfdXBkYXRlX3RpbWUgaXMgbm90IE5vbmUgYW5kCiAgICAgICAgICAgICAgICAgICAgZGF0YS5oZWFkZXIuc3RhbXAgPD0gc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSk6CiAgICAgICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGRlZiBfdXBkYXRlX3RydWNrX29ic3RhY2xlcyhzZWxmLCBkYXRhKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb2JzdGFjbGUgaW4gZGF0YToKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl90cnlfY2xlYW5fb2JzdGFjbGVfaWQob2JzdGFjbGVfaWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9ic3RhY2xlX2lkIG5vdCBpbiBvYnN0YWNsZV9pZHM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG9ic3RhY2xlX2lkIGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAob2JzdGFjbGVfaWQgbm90IGluIHNlbGYuX29ic3RhY2xlX3JlbGlhYmxlX3RpbWUgb3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuX2xhc3RfdXBkYXRlX3RpbWUgLQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5fb2JzdGFjbGVfcmVsaWFibGVfdGltZVtvYnN0YWNsZV9pZF0gPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcm9zcHkuRHVyYXRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5WMlhfT1VUX09GX0RBVEVfRFVSQVRJT05fSU5fU0VDKSk6CiAgICAgICAgICAgICAgICAgICAgICAgIGRlbCBzZWxmLl9vYnN0YWNsZV9kaWN0W29ic3RhY2xlX2lkXQogICAgICAgICAgICAgICAgICAgICAgICBkZWwgc2VsZi5fb2JzdGFjbGVfcmVsaWFibGVfdGltZVtvYnN0YWNsZV9pZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fcmVkaXNfbGFzdF91cGRhdGVfdGltZSA9IGRhdGEuaGVhZGVyLnN0YW1wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Obstacle</last-search>
+      <last-search>lidar_driver_left</last-search>
       <last-offset />
-      <last-pattern>Obstacle</last-pattern>
+      <last-pattern>lidar_driver_left</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -641,6 +641,8 @@
         <entry>obstacle</entry>
         <entry>get_v2x_ob</entry>
         <entry>Obstacle</entry>
+        <entry>lidar_left</entry>
+        <entry>lidar_driver_left</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
