@@ -32,10 +32,6 @@
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527581520780">
         <mark key="'" line="73" column="18" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="20" />
-        <mark key="." line="151" column="20" />
-        <mark key="^" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
@@ -120,9 +116,9 @@
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527581192036">
         <mark key="'" line="139" column="8" />
         <mark key="[" line="110" column="43" />
-        <mark key="]" line="114" column="22" />
-        <mark key="." line="114" column="22" />
-        <mark key="^" line="114" column="22" />
+        <mark key="]" line="110" column="22" />
+        <mark key="." line="110" column="22" />
+        <mark key="^" line="110" column="22" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_temporary_stopped.py" timestamp="1519732761907">
         <mark key="[" line="3" column="19" />
