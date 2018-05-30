@@ -207,11 +207,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527650646848">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="58" />
-        <mark key="^" line="19" column="58" />
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527655363478">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="15" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1527646344275">
         <mark key="[" line="6" column="5" />
@@ -459,8 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="125" column="44" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" />
       <jump line="210" column="59" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
       <jump line="186" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
       <jump line="221" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
@@ -559,13 +558,15 @@
       <jump line="36" column="17" filename="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" />
       <jump line="58" column="48" filename="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" />
       <jump line="57" column="25" filename="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" />
+      <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Obstacle</text>
@@ -574,34 +575,34 @@
         <text encoding="base64">ICAgICAgICBmb3Igb2JzdGFjbGUgaW4gZGF0YToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb2JzdGFjbGUuaWQgbm90IGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6CiAgICAgICAgICAgICAgICBzZWxmLl9vYnN0YWNsZV9kaWN0W29ic3RhY2xlLmlkXSA9IG9ic3RhY2xlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdWJfdjJ4X29ic3RhY2xlcyA9IHJvc3B5LlN1YnNjcmliZXIoCiAgICAgICAgICAgICd0YXRjL29ic3RhY2xlX2Zyb21fdjJ4JywgT2JzdGFjbGVzLCBzZWxmLnVwZGF0ZV92Mnhfb2JzdGFjbGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgdXBkYXRlX3YyeF9vYnN0YWNsZXMoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -652,8 +653,8 @@
         <entry>sw</entry>
         <entry>wqa</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
