@@ -207,12 +207,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527655363478">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" timestamp="1527656638802">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="42" column="46" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="42" column="46" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1527646344275">
         <mark key="[" line="6" column="5" />
@@ -562,11 +562,11 @@
       <jump line="17" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>Obstacle</text>
@@ -578,28 +578,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgb2JzdGFjbGUuaWQgbm90IGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6CiAgICAgICAgICAgICAgICBzZWxmLl9vYnN0YWNsZV9kaWN0W29ic3RhY2xlLmlkXSA9IG9ic3RhY2xlCg==</text>
+        <text encoding="base64">ICAgIExBVEVTVF9IRUFERVJfVElNRSA9IHJvc3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb2JzdGFjbGUuaWQgbm90IGluIHNlbGYuX29ic3RhY2xlX2RpY3Q6CiAgICAgICAgICAgICAgICBzZWxmLl9vYnN0YWNsZV9kaWN0W29ic3RhY2xlLmlkXSA9IG9ic3RhY2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
