@@ -148,11 +148,12 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527670472399">
-        <mark key="'" line="93" column="16" />
-        <mark key="[" line="722" column="0" />
-        <mark key="]" line="763" column="33" />
-        <mark key="." line="764" column="0" />
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527672781281">
+        <mark key="'" line="733" column="26" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/truck_to_tatc.py" timestamp="1527670076107">
         <mark key="'" line="70" column="18" />
@@ -288,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="11" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="101" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="128" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="127" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
@@ -388,6 +388,7 @@
       <jump line="30" column="6" filename="$USER_HOME$/octopus2/src/sensor/rslidar/rslidar_pointcloud/src/convert.cc" />
       <jump line="34" column="57" filename="$USER_HOME$/octopus2/src/sensor/rslidar/rslidar_pointcloud/src/convert.cc" />
       <jump line="33" column="11" filename="$USER_HOME$/octopus2/src/sensor/rslidar/rslidar_pointcloud/src/convert.cc" />
+      <jump line="733" column="26" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -440,7 +441,7 @@
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
