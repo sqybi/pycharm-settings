@@ -93,11 +93,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="110" column="22" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1527759447917">
-        <mark key="'" line="45" column="8" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1527759745443">
+        <mark key="'" line="57" column="35" />
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="64" column="15" />
+        <mark key="^" line="64" column="15" />
+        <mark key="." line="64" column="15" />
       </file>
       <file name="$USER_HOME$/octopus/scripts/update.sh" timestamp="1506066076304">
         <mark key="'" line="23" column="11" />
@@ -167,7 +168,6 @@
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/truck_to_tatc.py" timestamp="1527670076107">
         <mark key="'" line="70" column="18" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi" timestamp="1527668102768" />
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/planning_info.py" timestamp="1521080680465">
         <mark key="'" line="123" column="19" />
         <mark key="[" line="144" column="0" />
@@ -304,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="67" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="167" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="153" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="156" column="26" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
@@ -404,46 +403,49 @@
       <jump line="46" column="23" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" />
       <jump line="47" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" />
       <jump line="45" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" />
+      <jump line="57" column="35" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>rospy.loginfo</text>
       </register>
       <register name="/" type="4">
         <text>need_plan</text>
       </register>
       <register name="0" type="4">
-        <text>StandardError</text>
+        <text>raise NoNeedToPlanWarning</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3RbJ25lZWRfcGxhbiddID0gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3RbJ25lZWRfcGxhbiddID0gRmFsc2UK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0YXNrJzogdGFzawo=</text>
+      <register name="5" type="4">
+        <text>'
+                '</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd3YXlwb2ludHMnOiB3YXlwb2ludHMsCg==</text>
+      <register name="6" type="4">
+        <text>'
+                          '</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsYW5lX2lkcyc6IGF2YWlsYWJsZV9sYW5lX2lkcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc25hcHNob3RbJ25lZWRfcGxhbiddID0gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -460,19 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_real_waypoint</entry>
-        <entry>forward_waypoints</entry>
-        <entry>navigation</entry>
-        <entry>all_waypoints</entry>
-        <entry>forward_waypoint</entry>
-        <entry>rate</entry>
-        <entry>virtual</entry>
-        <entry>virtual_</entry>
-        <entry>front_obstacle_speed</entry>
-        <entry>nearest_obstacle</entry>
-        <entry>navigation_waypoints</entry>
-        <entry>last_real_waypoint_type</entry>
-        <entry>virtual_waypoint</entry>
         <entry>last_real</entry>
         <entry>waypoints = navigation_</entry>
         <entry>ref_index</entry>
