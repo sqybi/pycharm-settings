@@ -31,6 +31,11 @@
         <mark key="^" line="86" column="53" />
         <mark key="." line="86" column="53" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/__init__.py" timestamp="1527763811051">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/library/mp-planner2/mp_planner2/pl_vehicle.py" timestamp="1519533336224">
         <mark key="'" line="224" column="19" />
         <mark key="[" line="225" column="16" />
@@ -64,11 +69,6 @@
         <mark key="]" line="92" column="0" />
         <mark key="^" line="91" column="19" />
         <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" timestamp="1527670135760">
-        <mark key="'" line="87" column="18" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="42" />
       </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" timestamp="1527649725533">
         <mark key="'" line="14" column="4" />
@@ -191,6 +191,12 @@
       <file name="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" timestamp="1527650561328">
         <mark key="'" line="57" column="25" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/dependency/src/msgs/tbw_shanqi_msgs/msg/ErrorInformation.msg" timestamp="1527764749658">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" timestamp="1519889215640">
         <mark key="'" line="28" column="27" />
         <mark key="[" line="378" column="13" />
@@ -205,12 +211,12 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1527762254789">
-        <mark key="'" line="63" column="63" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="31" column="37" />
-        <mark key="^" line="31" column="37" />
-        <mark key="." line="31" column="37" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" timestamp="1527765208159">
+        <mark key="'" line="65" column="63" />
+        <mark key="[" line="97" column="37" />
+        <mark key="]" line="97" column="45" />
+        <mark key="^" line="97" column="45" />
+        <mark key="." line="97" column="45" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/src/real_segmentation_service.py" timestamp="1506066099344">
         <mark key="'" line="129" column="34" />
@@ -248,11 +254,11 @@
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527761749151">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527764041375">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
         <mark key="'" line="330" column="4" />
@@ -424,44 +430,44 @@
       <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FAR_FROM_NAVIGATION_WARNING</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FAR_FROM_NAVIGATION_WARNING</text>
       </register>
       <register name="/" type="4">
         <text>Timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuLmV4Y2VwdGlvbnMgaW1wb3J0IERhdGFGb3JtYXRFcnJvciwgRmFyRnJvbU5hdmlnYXRpb25XYXJuaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEZhckZyb21OYXZpZ2F0aW9uV2FybmluZyBhcyBleDoKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfY29kZSA9ICgKICAgICAgICAgICAgICAgICAgICBFcnJvckluZm9ybWF0aW9uLkZBUl9GUk9NX05BVklHQVRJT05fV0FSTklORykKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfbWVzc2FnZSA9IGV4Lm1lc3NhZ2UKICAgICAgICAgICAgICAgIHJvc3B5LmxvZ3dhcm4oc2VsZi5fZXJyb3JfaW5mby5lcnJvcl9tZXNzYWdlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">aW50MzIgTk9fTkVFRF9UT19QTEFOX1dBUk5JTkcgPSAxMDEKaW50MzIgRkFSX0ZST01fTkFWSUdBVElPTl9XQVJOSU5HID0gMTExCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50MzIgSURMRV9UQVNLID0gMjAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNlYmFjawo=</text>
+        <text encoding="base64">aW50MzIgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtb3Rpb25fcGxhbm5pbmdfbXNncy5tc2cgaW1wb3J0IFdheVBvaW50cywgV2F5UG9pbnQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBGYWxsYmFjayBzdWItcGxhbm5lcnMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">ZnJvbSAuZmFsbGJhY2tfcGxhbm5lciBpbXBvcnQgRmFsbGJhY2tQbGFubmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -474,7 +480,7 @@
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
