@@ -155,6 +155,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1527704558692">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/truck_to_tatc.py" timestamp="1527670076107">
         <mark key="'" line="70" column="18" />
       </file>
@@ -280,8 +283,8 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" timestamp="1526708779564">
-        <mark key="'" line="261" column="30" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" timestamp="1527704628592">
+        <mark key="'" line="195" column="8" />
         <mark key="[" line="427" column="35" />
         <mark key="]" line="427" column="38" />
         <mark key="^" line="427" column="38" />
@@ -289,12 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="128" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="127" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="125" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="124" column="33" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="118" column="55" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="143" column="53" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="144" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="141" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
@@ -389,6 +386,12 @@
       <jump line="34" column="57" filename="$USER_HOME$/octopus2/src/sensor/rslidar/rslidar_pointcloud/src/convert.cc" />
       <jump line="33" column="11" filename="$USER_HOME$/octopus2/src/sensor/rslidar/rslidar_pointcloud/src/convert.cc" />
       <jump line="733" column="26" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="173" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
+      <jump line="438" column="12" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
+      <jump line="48" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
+      <jump line="195" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/navigator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -398,7 +401,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>_append_virtual_waypoints</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBQTEFOTklORzoKICAgIHBvcnRfcGxhbm5lcjoKICAgICAgY21kOiByb3NsYXVuY2ggcG9ydF9wbGFubmVyIHBvcnRfcGxhbm5lci5sYXVuY2gKICAgICAgaW5fdG9waWM6CiAgICAgICAgLSAvbG9jYWxpemF0aW9uL3Bvc2UKICAgICAgICAtIC92ZWhpY2xlL3R3aXN0CiAgICAgICAgLSAvdmVoaWNsZS9CYmVlL2xvbmdpdHVkZV9yZXBvcnQKICAgICAgICAtIC90YXRjL3RhdGNfdGFzawogICAgICAgIC0gL3RhdGMvdGF0Y192MngKICAgICAgICAtIC90YXRjL29ic3RhY2xlCiAgICAgICAgLSAvdGF0Yy9jcm9zc2luZ19yZXNvdXJjZQogICAgICAgIC0gL29ic3RhY2xlX2F2b2lkYW5jZS9vYnN0YWNsZV9pbmZvcm1hdGlvbgogICAgICBvdXRfdG9waWM6CiAgICAgICAgLSAvcGxhbm5pbmcvbmF2aWdhdGlvbl93YXlfcG9pbnRzCiAgICAgICAgLSAvcGxhbm5pbmcvd2F5X3BvaW50cwogICAgICAgIC0gL3BsYW5uaW5nL3NjZW5lX2luZm9ybWF0aW9uCiAgICAgICAgLSAvcGxhbm5pbmcvdGFza19jb25maXJtYXRpb24KICAgICAgICAtIC9wbGFubmluZy9tYXBfcmVzb3VyY2VfcmVxdWVzdAogICAgICAgIC0gL3BsYW5uaW5nL2Vycm9yX2luZm8KCiAgQU5USElMTDoKICAgIGFudGxldDoKICAgICAgY21kOiByb3NsYXVuY2ggdGF0Y19hbnRsZXQgdGF0Y19hbnRsZXQubGF1bmNoCiAgICAgIGFyZ3M6CiAgICAgICAgcmVkaXNfaG9zdDogNDcuOTQuODcuMTEwCiAgICAgICAgcmVkaXNfcG9ydDogNjM4OQogICAgICAgIHJlZGlzX3Bhc3N3b3JkOiBkd0dqdGQ5RXo3YUgyVThUZDNZZQogICAgICAgIHYyeF9wb3J0OiA4MDQ0CiAgICAgICAgb2JzdGFjbGVfcHViX2ZyZXE6IDAuMQogICAgICBpbl90b3BpYzoKICAgICAgICAtIC9sb2NhbGl6YXRpb24vcG9zZQogICAgICAgIC0gL3ZlaGljbGUvQmJlZS9nbG9iYWxfcmVwb3J0CiAgICAgICAgLSAvdmVoaWNsZS90d2lzdAogICAgICAgIC0gL3BsYW5uaW5nL3Rhc2tfY29uZmlybWF0aW9uCiAgICAgICAgLSAvcGxhbm5pbmcvbWFwX3Jlc291cmNlX3JlcXVlc3QKICAgICAgICAtIC9wbGFubmluZy9uYXZpZ2F0aW9uX3dheV9wb2ludHMKICAgICAgICAtIC9wbGFubmluZy93YXlfcG9pbnRzCiAgICAgIG91dF90b3BpYzoKICAgICAgICAtIC90YXRjL3RhdGNfdGFzawogICAgICAgIC0gL3RhdGMvdGF0Y192MngKICAgICAgICAtIC90YXRjL29ic3RhY2xlCiAgICAgICAgLSAvdGF0Yy9jcm9zc2luZ19yZXNvdXJjZQo=</text>
@@ -431,17 +434,17 @@
         <text encoding="base64">ICAgICAgICAtIC9wbGFubmluZy9tYXBfcmVzb3VyY2UK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>_append_virtual_waypoints</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>_append_virtual_waypoints</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -475,6 +478,7 @@
         <entry>subscriber</entry>
         <entry>obstacle_avoidance</entry>
         <entry>node</entry>
+        <entry>_append_virtual_waypoints</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
@@ -487,8 +491,8 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
