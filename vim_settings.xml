@@ -281,10 +281,11 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" timestamp="1527838568459">
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="589" column="33" />
-        <mark key="." line="590" column="0" />
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" timestamp="1527839246099">
+        <mark key="[" line="832" column="32" />
+        <mark key="]" line="824" column="32" />
+        <mark key="." line="824" column="32" />
+        <mark key="^" line="824" column="32" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/perception/perception_master/config/node_graph_2_machine.yaml" timestamp="1506392524872">
         <mark key="'" line="155" column="4" />
