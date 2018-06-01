@@ -97,12 +97,12 @@
         <mark key="." line="540" column="24" />
         <mark key="^" line="528" column="29" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527762128640">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527855667510">
         <mark key="'" line="5" column="39" />
-        <mark key="[" line="140" column="63" />
-        <mark key="]" line="140" column="63" />
-        <mark key="^" line="49" column="47" />
-        <mark key="." line="140" column="63" />
+        <mark key="[" line="83" column="30" />
+        <mark key="]" line="84" column="19" />
+        <mark key="." line="84" column="19" />
+        <mark key="^" line="84" column="19" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1527843092667">
         <mark key="'" line="84" column="18" />
@@ -168,8 +168,8 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527672781281">
-        <mark key="'" line="733" column="26" />
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1527856090444">
+        <mark key="'" line="541" column="4" />
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -254,6 +254,12 @@
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/cfg/port_planner.cfg" timestamp="1527854957165">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="106" />
+        <mark key="^" line="23" column="93" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527764041375">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="8" />
@@ -329,8 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
-      <jump line="89" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="69" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="73" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="63" column="32" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
@@ -429,64 +433,65 @@
       <jump line="62" column="26" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
       <jump line="63" column="63" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/planner_node.py" />
       <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" />
+      <jump line="879" column="29" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="541" column="4" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'
-                              '</text>
+        <text>acc_speed_limit_forward_dist</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Timeout</text>
+        <text>localization_fusion</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEZhckZyb21OYXZpZ2F0aW9uV2FybmluZyBhcyBleDoKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfY29kZSA9ICgKICAgICAgICAgICAgICAgICAgICBFcnJvckluZm9ybWF0aW9uLkZBUl9GUk9NX05BVklHQVRJT05fV0FSTklORykKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfbWVzc2FnZSA9IGV4Lm1lc3NhZ2UKICAgICAgICAgICAgICAgIHJvc3B5LmxvZ3dhcm4oc2VsZi5fZXJyb3JfaW5mby5lcnJvcl9tZXNzYWdlKQo=</text>
+      <register name="0" type="4">
+        <text>acc_speed_limit_forward_dist</text>
       </register>
-      <register name="1" type="4">
-        <text>'
-                              '</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQgPSBmb3J3YXJkX3dheXBvaW50c1swXVsnc3BlZWRfbGltaXQnXQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>'
-                              '</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'
-                              '</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQgPSAK</text>
       </register>
       <register name="4" type="4">
         <text>'
                               '</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
+      <register name="5" type="4">
+        <text>'
+                              '</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>'
+                              '</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW50MzIgTk9fTkVFRF9UT19QTEFOX1dBUk5JTkcgPSAxMDEKaW50MzIgRkFSX0ZST01fTkFWSUdBVElPTl9XQVJOSU5HID0gMTExCg==</text>
+      <register name="7" type="4">
+        <text>'
+                              '</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50MzIgSURMRV9UQVNLID0gMjAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Timeout</last-search>
+      <last-search>localization_fusion</last-search>
       <last-offset />
-      <last-pattern>Timeout</last-pattern>
+      <last-pattern>localization_fusion</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -510,6 +515,7 @@
         <entry>_trans_waypoint_msg</entry>
         <entry>create_stuop</entry>
         <entry>Timeout</entry>
+        <entry>localization_fusion</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -517,13 +523,13 @@
         <entry>ew</entry>
         <entry>sw</entry>
         <entry>wqa</entry>
-        <entry>we</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>nohl</entry>
-        <entry>qw</entry>
         <entry>qa</entry>
+        <entry>we</entry>
         <entry>w</entry>
+        <entry>qw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
