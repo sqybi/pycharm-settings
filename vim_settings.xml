@@ -281,7 +281,7 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" timestamp="1527670453317">
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" timestamp="1527838568459">
         <mark key="[" line="548" column="0" />
         <mark key="]" line="589" column="33" />
         <mark key="." line="590" column="0" />
@@ -484,8 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ref_index</entry>
-        <entry>if ref_index</entry>
         <entry>last_real_waypoint_index</entry>
         <entry>logwarn</entry>
         <entry>pub_tatc</entry>
