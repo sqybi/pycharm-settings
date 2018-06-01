@@ -104,12 +104,12 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="140" column="63" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1527760983181">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/pre_planner.py" timestamp="1527843092667">
         <mark key="'" line="84" column="18" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="96" column="15" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="97" column="70" />
+        <mark key="]" line="100" column="30" />
+        <mark key="^" line="100" column="30" />
+        <mark key="." line="100" column="30" />
       </file>
       <file name="$USER_HOME$/octopus/scripts/update.sh" timestamp="1506066076304">
         <mark key="'" line="23" column="11" />
@@ -431,8 +431,9 @@
       <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
+      <register name="&quot;" type="4">
+        <text>'
+                              '</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -443,35 +444,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEZhckZyb21OYXZpZ2F0aW9uV2FybmluZyBhcyBleDoKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfY29kZSA9ICgKICAgICAgICAgICAgICAgICAgICBFcnJvckluZm9ybWF0aW9uLkZBUl9GUk9NX05BVklHQVRJT05fV0FSTklORykKICAgICAgICAgICAgICAgIHNlbGYuX2Vycm9yX2luZm8uZXJyb3JfbWVzc2FnZSA9IGV4Lm1lc3NhZ2UKICAgICAgICAgICAgICAgIHJvc3B5LmxvZ3dhcm4oc2VsZi5fZXJyb3JfaW5mby5lcnJvcl9tZXNzYWdlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
+      <register name="1" type="4">
+        <text>'
+                              '</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>'
+                              '</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW50MzIgTk9fTkVFRF9UT19QTEFOX1dBUk5JTkcgPSAxMDEKaW50MzIgRkFSX0ZST01fTkFWSUdBVElPTl9XQVJOSU5HID0gMTExCg==</text>
+      <register name="3" type="4">
+        <text>'
+                              '</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyAK</text>
+      <register name="4" type="4">
+        <text>'
+                              '</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50MzIgSURMRV9UQVNLID0gMjAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50MzIgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW50MzIgTk9fTkVFRF9UT19QTEFOX1dBUk5JTkcgPSAxMDEKaW50MzIgRkFSX0ZST01fTkFWSUdBVElPTl9XQVJOSU5HID0gMTExCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBGYWxsYmFjayBzdWItcGxhbm5lcnMK</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuZmFsbGJhY2tfcGxhbm5lciBpbXBvcnQgRmFsbGJhY2tQbGFubmVyCg==</text>
+        <text encoding="base64">aW50MzIgSURMRV9UQVNLID0gMjAxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -517,8 +522,8 @@
         <entry>q</entry>
         <entry>nohl</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
