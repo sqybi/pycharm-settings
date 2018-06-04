@@ -90,8 +90,8 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/octopus2/.rosinstall" timestamp="1528101888049">
-        <mark key="'" line="131" column="0" />
+      <file name="$USER_HOME$/octopus2/.rosinstall" timestamp="1528101948258">
+        <mark key="'" line="29" column="32" />
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
@@ -335,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="32" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
       <jump line="59" column="8" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="41" column="33" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="274" column="8" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/v2x_to_truck.py" />
@@ -435,6 +434,7 @@
       <jump line="541" column="4" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="113" column="55" filename="$USER_HOME$/octopus2/.rosinstall" />
       <jump line="127" column="0" filename="$USER_HOME$/octopus2/.rosinstall" />
+      <jump line="29" column="32" filename="$USER_HOME$/octopus2/.rosinstall" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -444,7 +444,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>urg</text>
+        <text>TuSimple</text>
       </register>
       <register name="0" type="4">
         <text>acc_speed_limit_forward_dist</text>
@@ -481,13 +481,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search>urg</last-search>
+      <last-search>TuSimple</last-search>
       <last-offset />
-      <last-pattern>urg</last-pattern>
+      <last-pattern>TuSimple</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
@@ -517,6 +517,7 @@
         <entry>localization_fusion</entry>
         <entry>version</entry>
         <entry>urg</entry>
+        <entry>TuSimple</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -527,10 +528,10 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>nohl</entry>
-        <entry>qa</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
