@@ -90,19 +90,6 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-007.yaml" timestamp="1527670437271">
-        <mark key="'" line="511" column="11" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="541" column="33" />
-        <mark key="." line="540" column="24" />
-        <mark key="^" line="528" column="29" />
-      </file>
-      <file name="$USER_HOME$/octopus2/.rosinstall" timestamp="1528095928928">
-        <mark key="'" line="113" column="55" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-      </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527855667510">
         <mark key="'" line="5" column="39" />
         <mark key="[" line="83" column="30" />
