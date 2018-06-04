@@ -97,6 +97,12 @@
         <mark key="." line="540" column="24" />
         <mark key="^" line="528" column="29" />
       </file>
+      <file name="$USER_HOME$/octopus2/.rosinstall" timestamp="1528095928928">
+        <mark key="'" line="113" column="55" />
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527855667510">
         <mark key="'" line="5" column="39" />
         <mark key="[" line="83" column="30" />
@@ -335,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="22" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="73" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
       <jump line="63" column="32" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
       <jump line="59" column="8" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
@@ -435,16 +440,17 @@
       <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" />
       <jump line="879" column="29" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="541" column="4" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="113" column="55" filename="$USER_HOME$/octopus2/.rosinstall" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>acc_speed_limit_forward_dist</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>localization_fusion</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
         <text>acc_speed_limit_forward_dist</text>
@@ -485,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search>localization_fusion</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>localization_fusion</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
@@ -495,7 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last_real_waypoint_index</entry>
         <entry>logwarn</entry>
         <entry>pub_tatc</entry>
         <entry>publisher</entry>
@@ -516,6 +521,7 @@
         <entry>create_stuop</entry>
         <entry>Timeout</entry>
         <entry>localization_fusion</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -528,8 +534,8 @@
         <entry>nohl</entry>
         <entry>qa</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>qw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
