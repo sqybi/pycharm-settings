@@ -67,6 +67,13 @@
         <mark key="^" line="91" column="19" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" timestamp="1528176997504">
+        <mark key="'" line="42" column="35" />
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+      </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/console_one_click.py" timestamp="1511847563499">
         <mark key="'" line="81" column="11" />
         <mark key="[" line="22" column="40" />
@@ -160,11 +167,11 @@
         <mark key="." line="95" column="52" />
         <mark key="^" line="95" column="52" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1527669612197">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="45" />
+      <file name="$USER_HOME$/octopus2/src/anthill/antlet/launch/tatc_antlet.launch" timestamp="1528176944230">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1528174080717">
         <mark key="'" line="542" column="15" />
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="29" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="16" column="16" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="73" column="40" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="14" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
@@ -430,13 +436,14 @@
       <jump line="791" column="0" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-008.yaml" />
       <jump line="542" column="15" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="575" column="10" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-010.yaml" />
+      <jump line="42" column="35" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>do_nothing</text>
@@ -476,7 +483,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -523,11 +530,11 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>nohl</entry>
-        <entry>we</entry>
         <entry>qw</entry>
-        <entry>qa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>qa</entry>
+        <entry>we</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
