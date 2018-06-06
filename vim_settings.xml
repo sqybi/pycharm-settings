@@ -241,10 +241,11 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1527761730005">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1528257709508">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" timestamp="1527762363371">
         <mark key="'" line="19" column="38" />
@@ -259,11 +260,11 @@
         <mark key="." line="23" column="106" />
         <mark key="^" line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1527764041375">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="8" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/util.py" timestamp="1528256847496">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/octopus/ros/src/system/console_backend/src/node_handler.py" timestamp="1512015914546">
         <mark key="'" line="330" column="4" />
@@ -440,47 +441,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>navigation_waypoints[::10] + [navigation_waypoints[i]]</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>navigation_waypoints[::10] + [navigation_waypoints[i]]</text>
       </register>
       <register name="/" type="4">
         <text>do_nothing</text>
       </register>
-      <register name="0" type="4">
-        <text>acc_speed_limit_forward_dist</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uX3dheXBvaW50X21zZyA9ICgKICAgICAgICAgICAgZ2VuZXJhdGVfd2F5cG9pbnRfbXNnX2Zyb21fd2F5cG9pbnRzKAogICAgICAgICAgICAgICAgbmF2aWdhdGlvbl93YXlwb2ludHNbOjoxMF0gKyBbbmF2aWdhdGlvbl93YXlwb2ludHNbLTFdXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQgPSBmb3J3YXJkX3dheXBvaW50c1swXVsnc3BlZWRfbGltaXQnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlZWRfbGltaXQgPSAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>'
-                              '</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdGlvbl93YXlwb2ludF9tc2cgPSBnZW5lcmF0ZV93YXlwb2ludF9tc2dfZnJvbV93YXlwb2ludHMoW10pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>'
-                              '</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsYXN0X3JlYWxfaWQgaXMgTm9uZToK</text>
       </register>
-      <register name="6" type="4">
-        <text>'
-                              '</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBOQVZJR0FUSU9OX1dBWVBPSU5UU19TVEVQID0gMTAK</text>
       </register>
-      <register name="7" type="4">
-        <text>'
-                              '</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBUT0RPKFFpbmd5dSk6IEFzc2VydCB0aGVyZSBpcyBvbmx5IG9uZSBjcm9zc2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhc3RfcmVhbF9pZCA9IGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IG5hdmlnYXRpb25fd2F5cG9pbnRzW2ldCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
