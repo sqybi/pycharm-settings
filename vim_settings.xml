@@ -59,12 +59,12 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528360783825">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528361248524">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="103" column="47" />
-        <mark key="]" line="103" column="47" />
-        <mark key="." line="103" column="47" />
-        <mark key="^" line="102" column="33" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="34" />
+        <mark key="." line="37" column="34" />
+        <mark key="^" line="37" column="34" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" timestamp="1521115248757">
         <mark key="'" line="71" column="8" />
@@ -128,11 +128,11 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" timestamp="1528361049613">
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="65" column="40" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" timestamp="1528361973830">
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527855667510">
         <mark key="'" line="5" column="39" />
@@ -486,44 +486,44 @@
       <jump line="22" column="14" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>l</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnbmF2X2NvdW50JyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnY291bnQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnJyksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVfZnVuYyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVfZnVuYyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGsgaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGsgaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGtleSA9PSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdHJpZ2dlcigncG9zaXRpb24nLCAnZGlzdF90b190YXJnZXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGtleSA9PSAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
