@@ -24,10 +24,10 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1527765774151">
-        <mark key="'" line="32" column="63" />
-        <mark key="[" line="243" column="47" />
-        <mark key="]" line="243" column="51" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" timestamp="1528363342788">
+        <mark key="'" line="1" column="16" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="81" column="57" />
         <mark key="^" line="243" column="51" />
         <mark key="." line="243" column="51" />
       </file>
@@ -59,12 +59,12 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528361248524">
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528363972614">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+        <mark key="[" line="185" column="27" />
+        <mark key="]" line="185" column="38" />
+        <mark key="." line="185" column="38" />
+        <mark key="^" line="185" column="38" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" timestamp="1521115248757">
         <mark key="'" line="71" column="8" />
@@ -128,11 +128,11 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" timestamp="1528361973830">
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-        <mark key="^" line="39" column="18" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" timestamp="1528363187986">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="46" column="36" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/longitudinal_planner.py" timestamp="1527855667510">
         <mark key="'" line="5" column="39" />
@@ -384,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="25" filename="$USER_HOME$/octopus2/devel/lib/python2.7/dist-packages/antlet_msgs/msg/_Obstacles.py" />
-      <jump line="19" column="38" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
       <jump line="17" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/obstacle_fusion.py" />
       <jump line="726" column="27" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="40" column="11" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
@@ -484,59 +482,61 @@
       <jump line="20" column="25" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="21" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="22" column="14" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/collector.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
+      <jump line="1" column="16" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/lateral_planner.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnJyksCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>t</text>
-      </register>
-      <register name="/" type="4">
-        <text>l</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnY291bnQnKSwK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgnd2F5cG9pbnQnLCAnJyksCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+      <register name="/" type="4">
+        <text>np</text>
+      </register>
+      <register name="0" type="4">
+        <text>wp_pose.x - data_pose.pose.position.x</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGhhc2F0dHIoc2VsZiwgdXBkYXRlX2Z1bmNfbmFtZSk6CiAgICAgICAgICAgICAgICAgICAgdXBkYXRlX2Z1bmMgPSBnZXRhdHRyKHNlbGYsIHVwZGF0ZV9mdW5jX25hbWUpCiAgICAgICAgICAgICAgICAgICAgdXBkYXRlX3RocmVhZCA9IHRocmVhZGluZy5UaHJlYWQodGFyZ2V0PXVwZGF0ZV9mdW5jKQogICAgICAgICAgICAgICAgICAgIHVwZGF0ZV90aHJlYWQgPSAKICAgICAgICAgICAgICAgICAgICBzZWxmLmxhYmVsX3VwZGF0ZV90aHJlYWRzID0gdXBkYXRlX2Z1bmMK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5fd3AgPSBOb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cGRhdGVfZnVuYyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbl93cCA9IHdwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzdCA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGsgaXMK</text>
+        <text encoding="base64">ZGVmIHVwZGF0ZV93aWRnZXRfcG9zaXRpb25fKHNlbGYsIGRhdGFfZGljdCk6CiAgICAgICAgazEsIGsyID0gKCdwb3NpdGlvbicsICdoZWFkaW5nJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0ID0gc2VsZi5sYWJlbF93aWRnZXRzW2sxXVtrMl1bMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpLAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYubGFiZWxfbG9ja3NbazFdW2syXToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGtleSA9PSAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>l</last-search>
+      <last-search>np</last-search>
       <last-offset />
-      <last-pattern>l</last-pattern>
+      <last-pattern>np</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -567,6 +567,8 @@
         <entry>planner</entry>
         <entry>Tk.</entry>
         <entry>l</entry>
+        <entry>numpy</entry>
+        <entry>np</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
@@ -577,10 +579,10 @@
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>q</entry>
-        <entry>we</entry>
         <entry>nohl</entry>
         <entry>qw</entry>
         <entry>.,.+3w</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
