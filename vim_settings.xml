@@ -173,8 +173,8 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1528174080717">
-        <mark key="'" line="542" column="15" />
+      <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" timestamp="1528344524679">
+        <mark key="'" line="63" column="7" />
         <mark key="[" line="342" column="20" />
         <mark key="]" line="342" column="23" />
         <mark key="." line="342" column="23" />
@@ -338,8 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="16" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
-      <jump line="73" column="40" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="14" column="4" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/tatc_to_truck.py" />
       <jump line="88" column="29" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
       <jump line="73" column="21" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
@@ -438,6 +436,8 @@
       <jump line="542" column="15" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
       <jump line="575" column="10" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-010.yaml" />
       <jump line="42" column="35" filename="$USER_HOME$/octopus2/src/anthill/antlet/src/config/config.yaml" />
+      <jump line="342" column="23" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
+      <jump line="63" column="7" filename="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-009.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +447,7 @@
         <text>navigation_waypoints[::10] + [navigation_waypoints[i]]</text>
       </register>
       <register name="/" type="4">
-        <text>do_nothing</text>
+        <text>planner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uX3dheXBvaW50X21zZyA9ICgKICAgICAgICAgICAgZ2VuZXJhdGVfd2F5cG9pbnRfbXNnX2Zyb21fd2F5cG9pbnRzKAogICAgICAgICAgICAgICAgbmF2aWdhdGlvbl93YXlwb2ludHNbOjoxMF0gKyBbbmF2aWdhdGlvbl93YXlwb2ludHNbLTFdXSkpCg==</text>
@@ -484,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>do_nothing</last-search>
+      <last-search>planner</last-search>
       <last-offset />
-      <last-pattern>do_nothing</last-pattern>
+      <last-pattern>planner</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
@@ -518,6 +518,7 @@
         <entry>TuSimple</entry>
         <entry>obstacle</entry>
         <entry>do_nothing</entry>
+        <entry>planner</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
