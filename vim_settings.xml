@@ -54,13 +54,13 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528382134006">
-        <mark key="'" line="680" column="47" />
-        <mark key="[" line="28" column="70" />
-        <mark key="l" line="548" column="27" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="28" column="71" />
-        <mark key="^" line="74" column="88" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" timestamp="1528422598787">
+        <mark key="'" line="728" column="29" />
+        <mark key="[" line="41" column="65" />
+        <mark key="l" line="551" column="27" />
+        <mark key="]" line="41" column="66" />
+        <mark key="." line="41" column="66" />
+        <mark key="^" line="128" column="77" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/state_stepping.py" timestamp="1521115248757">
         <mark key="'" line="71" column="8" />
@@ -382,17 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="389" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="391" column="23" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="388" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="370" column="42" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="369" column="23" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="366" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="346" column="42" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="345" column="19" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="342" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="331" column="42" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="330" column="19" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="327" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="315" column="15" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
@@ -446,7 +435,6 @@
       <jump line="606" column="15" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="622" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="634" column="13" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
-      <jump line="728" column="55" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="39" column="13" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="24" column="39" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="111" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
@@ -482,19 +470,31 @@
       <jump line="678" column="54" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="735" column="54" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="680" column="47" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="113" column="37" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="260" column="28" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="172" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="296" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="508" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="526" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="670" column="43" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="671" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="727" column="49" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
+      <jump line="728" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>态</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>态</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>grid</text>
+        <text>6.2f</text>
       </register>
-      <register name="0" type="4">
-        <text>, borderwidth=2, relief='ridge'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2WzBdLmNvbmZpZ3VyZShib3JkZXJ3aWR0aD0yLCByZWxpZWY9J3JpZGdlJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uY29uZmlndXJlKCkK</text>
@@ -528,13 +528,13 @@
       </register>
     </registers>
     <search>
-      <last-search>grid</last-search>
+      <last-search>6.2f</last-search>
       <last-offset />
-      <last-pattern>grid</last-pattern>
+      <last-pattern>6.2f</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -558,6 +558,8 @@
         <entry>color=color</entry>
         <entry>border</entry>
         <entry>grid</entry>
+        <entry>task_type</entry>
+        <entry>6.2f</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
