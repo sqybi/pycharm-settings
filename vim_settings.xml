@@ -99,12 +99,10 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" timestamp="1528449630740">
-        <mark key="'" line="59" column="33" />
-        <mark key="[" line="70" column="48" />
-        <mark key="]" line="70" column="48" />
-        <mark key="." line="70" column="48" />
-        <mark key="^" line="70" column="43" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" timestamp="1528530553854">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/octopus2/config/vehicles/Octopus-Shanqi-007.yaml" timestamp="1528430023435">
         <mark key="'" line="247" column="27" />
@@ -508,46 +506,45 @@
       <jump line="24" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/tools/map_verifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'
-        '</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aGlzdG9yeV93aW5kb3cgPSBOb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, map_handler</text>
+        <text>tool_tip</text>
       </register>
       <register name="/" type="4">
         <text>visited</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3BvaW50LngsIHN0YXJ0X3BvaW50LnkgPSBtYXBfaGFuZGxlci54eTJsYXRsb24oCiAgICAgICAgc3RhcnRfcG9pbnQueCwgc3RhcnRfcG9pbnQueSkK</text>
+        <text encoding="base64">ICAgIGlmIHRvb2xfdGlwX3dpbmRvdyBpcyBOb25lOgogICAgICAgIHRvb2xfdGlwX3dpbmRvdyA9IFRvb2xUaXAoKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aGlzdG9yeV93aW5kb3cgPSBOb25lCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBoaXN0b3J5X3dpbmRvdwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGhpc3Rvcnlfd2luZG93IGlzIE5vbmU6CiAgICAgICAgaGlzdG9yeV93aW5kb3cgPSAoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHRocmVhZGluZwppbXBvcnQgdGltZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpcF93aW5kb3cuc3RhdGUobmV3c3RhdGU9J3dpdGhkcmF3bicpCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>'
         '</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9IAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJy17fScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJy0ge30ge30nLmZvcm1hdChmcm9udF9sYW5lLmlkLCB0KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQsIGxhbmUuZnJvbnRfbGFuZXMsIGZsYWcsIGF2YWlsYWJsZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQsIGZsYWcsIGF2YWlsYWJsZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
