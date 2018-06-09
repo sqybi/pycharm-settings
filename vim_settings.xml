@@ -92,10 +92,6 @@
       <file name="$USER_HOME$/.ros/log/latest/waypoint_follower-1.log" timestamp="1527648385275">
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/main.py" timestamp="1528346763730">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control/states/memory.py" timestamp="1521115433099">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="21" column="50" />
@@ -295,6 +291,13 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/tools/map_verifier.py" timestamp="1528507434071">
+        <mark key="'" line="24" column="20" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="27" />
+      </file>
       <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/exceptions.py" timestamp="1527762363371">
         <mark key="'" line="19" column="38" />
         <mark key="[" line="37" column="24" />
@@ -403,8 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" />
       <jump line="175" column="28" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="306" column="0" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
       <jump line="365" column="14" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/monitor_application.py" />
@@ -503,55 +504,59 @@
       <jump line="54" column="38" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" />
       <jump line="71" column="29" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" />
       <jump line="59" column="33" filename="$USER_HOME$/octopus2/src/planning/port_planner/port_planner_monitor/src/monitor/tool_tip.py" />
+      <jump line="49" column="18" filename="$USER_HOME$/octopus2/src/planning/port_planner/tools/map_verifier.py" />
+      <jump line="24" column="20" filename="$USER_HOME$/octopus2/src/planning/port_planner/tools/map_verifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBldmVudC53aWRnZXQudG9vbF90aXBfdGV4dCwg</text>
+        <text>'
+        '</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>, map_handler</text>
       </register>
       <register name="/" type="4">
-        <text>tool_tip_text</text>
+        <text>visited</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaGFzYXR0cihldmVudC53aWRnZXQsICd0b29sX3RpcF90ZXh0Jyk6Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3BvaW50LngsIHN0YXJ0X3BvaW50LnkgPSBtYXBfaGFuZGxlci54eTJsYXRsb24oCiAgICAgICAgc3RhcnRfcG9pbnQueCwgc3RhcnRfcG9pbnQueSkK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBldmVudC53aWRnZXQudG9vbF90aXBfdGV4dCwg</text>
+        <text>'
+        '</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJy17fScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50aXBfd2luZG93LndtX2dlb21ldHJ5KCcrJWQrJWQnICUgKHgsIHkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJy0ge30ge30nLmZvcm1hdChmcm9udF9sYW5lLmlkLCB0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudGlwX3dpbmRvdy53bV9nZW9tZXRyeSgnKyVkKyVkJyAlICh4LCB5KSkK</text>
+        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQsIGxhbmUuZnJvbnRfbGFuZXMsIGZsYWcsIGF2YWlsYWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2Rlc3Ryb3koKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQsIGZsYWcsIGF2YWlsYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGxhbmUuaWQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHcuZGVzdHJveSgpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0dzoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tool_tip_text</last-search>
+      <last-search>visited</last-search>
       <last-offset />
-      <last-pattern>tool_tip_text</last-pattern>
+      <last-pattern>visited</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>last_real</last-substitute>
       <last-dir>1</last-dir>
@@ -608,6 +613,7 @@
         <entry>tw</entry>
         <entry>destroy</entry>
         <entry>tool_tip_text</entry>
+        <entry>visited</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
