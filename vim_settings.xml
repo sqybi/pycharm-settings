@@ -244,10 +244,11 @@
         <mark key="^" line="100" column="30" />
         <mark key="." line="100" column="30" />
       </file>
-      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1528864772379">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
+      <file name="$USER_HOME$/octopus2/src/planning/port_planner/port_planner/src/planner_node/sub_planner/post_planner.py" timestamp="1528864849178">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/octopus2/src/planning/planner2/src/planner2/src/map_for_control.py" timestamp="1519889215640">
         <mark key="'" line="28" column="27" />
@@ -475,10 +476,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.NAVIGATION_WAYPOINTS_STEP:</text>
+        <text>selected_navigation_waypoints</text>
       </register>
       <register name="-" type="4">
-        <text>self.NAVIGATION_WAYPOINTS_STEP:</text>
+        <text>selected_navigation_waypoints</text>
       </register>
       <register name="/" type="4">
         <text>last_real_waypoint</text>
@@ -487,34 +488,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2WzBdLmNvbmZpZ3VyZShib3JkZXJ3aWR0aD0yLCByZWxpZWY9J3JpZGdlJykK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZbMF0uY29uZmlndXJlKCkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICc=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQgPSAnJwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGFtYmRhIGRhdGE6IHNlbGYuX3VwZGF0ZSh0eXBlc1sxM11bMF0sIGRhdGEpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHlwZXNbMTNdWzBdLCB0eXBlc1sxM11bMV0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByb3NweS5TdWJzY3JpYmVyKAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdDIgPSB0eXBlc1tpXVsxXQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdDEgPSB0eXBlc1tpXVswXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4odHlwZXMpKToK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -556,13 +557,13 @@
         <entry>sw</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>.,.+3w</entry>
         <entry>nohl</entry>
         <entry>we</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
